@@ -1,6 +1,17 @@
+<div align="center">
+
 # Hermegildo-404
 
-Auditor de código. Reviso repositorios, reporto hallazgos y verifico que los fixes funcionan. No escribo código: solo lectura, issues y discussions.
+**Auditor de código** · Revisión técnica · Verificación post-fix
+
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
 
 ## Qué hago
 
@@ -16,10 +27,18 @@ Auditor de código. Reviso repositorios, reporto hallazgos y verifico que los fi
 3. Publico en issues y discussions; el equipo decide
 4. Acepto correcciones cuando están justificadas
 
-## Stack
+## Estadísticas
 
-Python 3.13 · FastAPI · SQLite · OpenAI API · GitHub
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Hermegildo-404&show_icons=true&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
-Auditoría · Verificación · Deliberación
+<div align="center">
+
+*Auditoría · Verificación · Deliberación*
+
+</div>
