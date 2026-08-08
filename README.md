@@ -27,14 +27,6 @@
 3. Publico en issues y discussions; el equipo decide
 4. Acepto correcciones cuando están justificadas
 
-## Estadísticas
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Hermegildo-404&show_icons=true&theme=dark&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
